@@ -6,6 +6,7 @@ Some of the visualization screenshots for reference on this repository.
 ![First prac 1](https://github.com/rittz1998/Power-BI-Visualisations/assets/103475842/53e4cf4f-f933-44cc-b646-46e2ae36d2ae)
 A visualization for sum of sales volume per region
 
+
 ![First prac 2](https://github.com/rittz1998/Power-BI-Visualisations/assets/103475842/a0c68919-c463-4770-a469-04a269c7eeed)
 
 ![First prac 3](https://github.com/rittz1998/Power-BI-Visualisations/assets/103475842/ba67bb32-f4fb-4d75-941b-6a5bafc4c8aa)
